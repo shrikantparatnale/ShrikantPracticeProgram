@@ -1,4 +1,4 @@
 # ShrikantPracticeProgram
 <br>
 Author- shrikant paratnale
-Java program
+Automation Testing
